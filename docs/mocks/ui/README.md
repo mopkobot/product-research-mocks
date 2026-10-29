@@ -56,6 +56,8 @@ Captured at 1440 px wide, full page, with Playwright. Sample data only.
 | `issue-122-plan-billing.png` | `#/billing` |
 | `issue-119-google-signin.png` | `#/signin` |
 | `issue-118-email-verification.png` | `#/verify` |
+| `issue-118-password-forgot.png` | `#/forgot` |
+| `issue-118-password-reset.png` | `#/reset` |
 | `issue-062-safe-to-share.png` | `#/settings` → share dialog |
 | `issue-061-mortality.png` | `#/longevity` |
 | `issue-060-private-equity.png` | `#/private-equity` |
