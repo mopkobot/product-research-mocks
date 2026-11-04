@@ -96,3 +96,9 @@ Each has a 1440 px desktop capture and a 390 px mobile capture.
 | `issue-304-new-job-mobile.png` | Income → Job change, mobile |
 | `issue-305-buy-home-sell-old.png` | Assets → Home replacement, desktop |
 | `issue-305-buy-home-sell-old-mobile.png` | Assets → Home replacement, mobile |
+| `issue-306-one-time-gift.png` | Spending → One-time gift, desktop |
+| `issue-306-one-time-gift-mobile.png` | Spending → One-time gift, mobile |
+| `issue-307-family-support.png` | Spending → Family support, desktop |
+| `issue-307-family-support-mobile.png` | Spending → Family support, mobile |
+| `issue-308-tuition.png` | Spending → Tuition, desktop |
+| `issue-308-tuition-mobile.png` | Spending → Tuition, mobile |
