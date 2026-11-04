@@ -78,7 +78,7 @@ Each has a 1440 px desktop capture and a 390 px mobile capture.
 
 | File | Screen |
 | --- | --- |
-| `issue-297-sabbatical.png` | Income → Career break, desktop |
-| `issue-297-sabbatical-mobile.png` | Income → Career break, mobile |
+| `issue-297-sabbatical-months.png` | Income → Career break, month range, desktop |
+| `issue-297-sabbatical-months-mobile.png` | Income → Career break, month range, mobile |
 | `issue-298-new-child.png` | Spending → New child costs, desktop |
 | `issue-298-new-child-mobile.png` | Spending → New child costs, mobile |
