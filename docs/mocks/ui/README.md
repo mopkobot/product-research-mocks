@@ -82,3 +82,13 @@ Each has a 1440 px desktop capture and a 390 px mobile capture.
 | `issue-297-sabbatical-months-mobile.png` | Income → Career break, month range, mobile |
 | `issue-298-new-child.png` | Spending → New child costs, desktop |
 | `issue-298-new-child-mobile.png` | Spending → New child costs, mobile |
+| `issue-299-job-loss.png` | Income → Job loss, desktop |
+| `issue-299-job-loss-mobile.png` | Income → Job loss, mobile |
+| `issue-300-buy-car.png` | Assets → New car, desktop |
+| `issue-300-buy-car-mobile.png` | Assets → New car, mobile |
+| `issue-301-buy-home-rent-old.png` | Assets → Home move, desktop |
+| `issue-301-buy-home-rent-old-mobile.png` | Assets → Home move, mobile |
+| `issue-302-buy-rental.png` | Assets → Rental purchase, desktop |
+| `issue-302-buy-rental-mobile.png` | Assets → Rental purchase, mobile |
+| `issue-303-sell-home-rent.png` | Assets → Home exit, desktop |
+| `issue-303-sell-home-rent-mobile.png` | Assets → Home exit, mobile |
