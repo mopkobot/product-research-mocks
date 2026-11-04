@@ -102,3 +102,5 @@ Each has a 1440 px desktop capture and a 390 px mobile capture.
 | `issue-307-family-support-mobile.png` | Spending → Family support, mobile |
 | `issue-308-tuition.png` | Spending → Tuition, desktop |
 | `issue-308-tuition-mobile.png` | Spending → Tuition, mobile |
+| `issue-309-child-accounts.png` | Finances → Child accounts, desktop |
+| `issue-309-child-accounts-mobile.png` | Finances → Child accounts, mobile |
