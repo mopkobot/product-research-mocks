@@ -92,8 +92,8 @@ Each has a 1440 px desktop capture and a 390 px mobile capture.
 | `issue-302-buy-rental-mobile.png` | Assets → Rental purchase, mobile |
 | `issue-303-sell-home-rent.png` | Assets → Home exit, desktop |
 | `issue-303-sell-home-rent-mobile.png` | Assets → Home exit, mobile |
-| `issue-304-new-job.png` | Income → Job change, desktop |
-| `issue-304-new-job-mobile.png` | Income → Job change, mobile |
+| `issue-304-new-job-package.png` | Income → Job change, full package, desktop |
+| `issue-304-new-job-package-mobile.png` | Income → Job change, full package, mobile |
 | `issue-305-buy-home-sell-old.png` | Assets → Home replacement, desktop |
 | `issue-305-buy-home-sell-old-mobile.png` | Assets → Home replacement, mobile |
 | `issue-306-one-time-gift.png` | Spending → One-time gift, desktop |
