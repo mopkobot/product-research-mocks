@@ -70,3 +70,15 @@ Captured at 1440 px wide, full page, with Playwright. Sample data only.
 
 Regenerate from the prototype folder with Playwright at 1440 px. Admin routes use
 `#/admin?view=<section>`; dialogs and drawers are captured after the trigger is clicked.
+
+## Issue-specific user mockups
+
+These captures come from the standalone HTML mockups in `docs/mocks/user/` in `product-research`.
+Each has a 1440 px desktop capture and a 390 px mobile capture.
+
+| File | Screen |
+| --- | --- |
+| `issue-297-sabbatical.png` | Income → Career break, desktop |
+| `issue-297-sabbatical-mobile.png` | Income → Career break, mobile |
+| `issue-298-new-child.png` | Spending → New child costs, desktop |
+| `issue-298-new-child-mobile.png` | Spending → New child costs, mobile |
